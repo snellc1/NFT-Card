@@ -10,13 +10,9 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+  - [Continued development](#continued-development)  
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -34,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://snellc1.github.io/NFT-Card/)
-- Live Site URL: [Add live site URL here](https://snellc1.github.io/NFT-Card/)
+- Solution URL: [https://github.com/snellc1/NFT-Card](https://github.com/snellc1/NFT-Card)
+- Live Site URL: [https://snellc1.github.io/NFT-Card/](https://snellc1.github.io/NFT-Card/)
 
 ## My process
 
@@ -53,6 +49,6 @@ Need to work on centering a image correctly and how to change an image backgroun
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Christopher Snell](https://github.com/snellc1/NFT-Card)
+- Frontend Mentor - [@snellc1](https://www.frontendmentor.io/profile/yourusername)
 
