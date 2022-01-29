@@ -28,7 +28,6 @@ body{
 }
 
 #equilibrium {
-    display: block;
     position: relative;
     left: -30px; 
     width: 350px;  
@@ -95,3 +94,4 @@ span {
 #creator {
     color: var(--white);
 }
+
